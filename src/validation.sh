@@ -2,4 +2,4 @@
 
 echo "Ok"
 
-return 0
+exit 0
