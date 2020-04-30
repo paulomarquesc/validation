@@ -2,6 +2,6 @@
 
 FORCED_EXIT_CODE=$1
 
-echo "eXIT "
+echo "EXIT CODE IS $FORCED_EXIT_CODE"
 
 exit $FORCED_EXIT_CODE
