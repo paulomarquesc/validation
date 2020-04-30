@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "Ok"
+FORCED_EXIT_CODE=$1
 
-exit 0
+echo "eXIT "
+
+exit $FORCED_EXIT_CODE
